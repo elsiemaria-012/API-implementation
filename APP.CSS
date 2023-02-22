@@ -1,0 +1,20 @@
+body{
+   color: cornflowerblue;
+   background-color: indigo;
+   margin-top: 80px;
+}
+#get {
+    color: rgb(63, 14, 56);
+}
+#post {
+    color: hwb(251 1% 67%);
+}
+#put {
+    color: rgb(8, 61, 61);
+}
+#delete {
+    color: red;
+}
+.btn{
+    
+}
